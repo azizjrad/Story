@@ -1,4 +1,4 @@
 # Story
 My masterpiece 
 
-Learning about Git and Github
+Don't min this i was learning about Git and Github
